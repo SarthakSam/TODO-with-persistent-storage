@@ -1,0 +1,60 @@
+.headerIcons{
+	font-size:50px;
+	margin-left: 20px;
+}
+
+.display-4{
+	text-align: center;
+	color: red;
+	font-weight: 800;
+}
+
+.todoBox{
+    margin:0;
+	background: red;
+}
+
+.todoContainer{
+	font-weight: 600;
+	font-size: 30px;
+	display: flex;
+}
+
+.textHolder{
+     display: flex;
+     width: 80%;
+}
+
+.textHolder input{
+	height: 50px;
+	width: 50px;
+}
+
+.textHolder p{
+   	 margin-left: 10px;
+
+}
+
+li i{
+	/*display: flex;*/
+	/*align-items: end;*/
+	margin-left: auto;
+	margin-right: 12px;
+	font-size: 60px;
+	color:red;
+}
+
+.done{
+	text-decoration: line-through;
+}
+/*
+.textHolder li i.fas.fa-long-arrow-alt-up : first-child{
+	color:blue;
+	background: yellow;
+}
+
+
+.textHolder : last-child{
+	color:green;
+}
+*/
